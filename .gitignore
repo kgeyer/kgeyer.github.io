@@ -1,4 +1,32 @@
+# Jekyll #
+##########
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# R #
+#####
+.Rhistory*
+*.RData
+*.Rapp.*
+*.Rout
+Rplots.pdf
+*.rds
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Other #
+#########
+.nfs00*
+*.swp
+~$*.docx
+.nfs00*
