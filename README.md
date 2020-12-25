@@ -13,7 +13,7 @@ The site was forked from [Jonathan McGlone's GitHub Repo](https://github.com/kge
 
 Otherwise I will receive GA data from your website.
 
-## Testing website
+## Testing website locally
 To run the Jekyll locally, navigate to the repo's main directory, and run the line,
 $ bundle exec jekyll serve
 
