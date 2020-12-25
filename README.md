@@ -15,6 +15,9 @@ Otherwise I will receive GA data from your website.
 
 ## Testing website locally
 To run the Jekyll locally, navigate to the repo's main directory, and run the line,
+```
+$ cd kgeyer.github.io
 $ bundle exec jekyll serve
+```
 
 To preview your site, in your web browser, navigate to http://localhost:4000.
