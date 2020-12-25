@@ -1,2 +1,4 @@
+# Google Analytics: https://desiredpersona.com/google-analytics-jekyll/
+google_analytics: UA-186063315-1
 permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
