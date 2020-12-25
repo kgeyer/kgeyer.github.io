@@ -10,11 +10,8 @@ The site was forked from [Jonathan McGlone's GitHub Repo](https://github.com/kge
 * Edit `_includes/analytics.html` and either
   * Replace the Google Analytics tracking code with your own, or
   * If you don't use Google Analytics, comment the block of code out entirely.
-* Edit `_includes/disqus.html` and either
-  * Replace the `disqus_shortname` with your own DISQUS username, or
-  * If you don't want commenting, remove or comment out the block of code entirely.
 
-Otherwise I will receive GA data and DISQUS comments from your website.
+Otherwise I will receive GA data from your website.
 
 ## Testing website
 To run the Jekyll locally, navigate to the repo's main directory, and run the line,
