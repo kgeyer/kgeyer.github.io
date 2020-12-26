@@ -10,14 +10,10 @@ The site was forked from [Jonathan McGlone's GitHub Repo](https://github.com/kge
 * Edit `_includes/analytics.html` and either
   * Replace the Google Analytics tracking code with your own, or
   * If you don't use Google Analytics, comment the block of code out entirely.
+Otherwise I will receive GA data and DISQUS comments from your website.
 
-Otherwise I will receive GA data from your website.
-
-## Testing website locally
+## Testing website
 To run the Jekyll locally, navigate to the repo's main directory, and run the line,
-```
-$ cd kgeyer.github.io
 $ bundle exec jekyll serve
-```
 
 To preview your site, in your web browser, navigate to http://localhost:4000.

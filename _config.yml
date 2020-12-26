@@ -2,3 +2,14 @@
 google_analytics: UA-186063315-1
 permalink: /notes/:year/:month/:day/:title
 markdown: kramdown
+title: Kelly Geyer
+tagline: Kelly Geyer | Academic website
+social:
+  name: Kelly Geyer
+  links:
+    - https://github.com/kgeyer
+    - https://www.linkedin.com/in/kelly-geyer/
+    - https://gitlab.com/kgeyer
+    - https://scholar.google.com/citations?user=_ldBpX0AAAAJ&hl=en
+plugins:
+  - jekyll-seo-tagq 
