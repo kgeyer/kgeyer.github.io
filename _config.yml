@@ -13,3 +13,41 @@ social:
     - https://scholar.google.com/citations?user=_ldBpX0AAAAJ&hl=en
 plugins:
   - jekyll-seo-tagq 
+
+  # Site Author
+author:
+  name             : "Kelly Geyer"
+  avatar           : "profile.png"
+  bio              : ""
+  location         : "Boston, MA"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=_ldBpX0AAAAJ&hl=en"
+  email            : "klgeyer@bu.edu"
+  researchgate     : 
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "https://github.com/kgeyer" 
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/kelly-geyer/"
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
